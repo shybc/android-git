@@ -1,2 +1,3 @@
 further testing
 new line after nickname change
+changed remote url with <git remote set-url origin ...>
